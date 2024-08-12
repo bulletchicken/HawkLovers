@@ -24,8 +24,8 @@ import subprocess
 
 
 contacts = {
-    "call jeremy": "6472896168",
-    "call victoria": "6474739449"
+    "call jeremy": "",
+    "call victoria": ""
 }
 
 
